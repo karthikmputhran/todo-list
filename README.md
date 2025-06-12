@@ -18,6 +18,7 @@
 |----------|-----------|---------------|-----------|
 | ![Add Task](screenshots/add_task.png) | ![Edit Task](screenshots/edit_your_task.png) | ![Add Deadline](screenshots/add_deadine_to_task.png) | ![Mark Done](screenshots/mark_task_as_done.png) |
 
+
 ### ➕ Lists and Sharing
 
 | Add List | Share Task |
