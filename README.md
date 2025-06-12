@@ -1,16 +1,25 @@
-# todolist
+## 📸 App Screenshots
 
-A new Flutter project.
+### 🔐 Authentication
 
-## Getting Started
+| Login | Signup |
+|-------|--------|
+| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
 
-This project is a starting point for a Flutter application.
+### 🏠 Main Features
 
-A few resources to get you started if this is your first Flutter project:
+| Home | App Drawer | Dark Mode |
+|------|------------|-----------|
+| ![Home](screenshots/homescreen.png) | ![Drawer](screenshots/appdrawer.png) | ![Dark Mode](screenshots/darkmode.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📝 Task Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Add Task | Edit Task | Add Deadline | Mark Done |
+|----------|-----------|---------------|-----------|
+| ![Add Task](screenshots/add_task.png) | ![Edit Task](screenshots/edit_your_task.png) | ![Add Deadline](screenshots/add_deadline_to_task.png) | ![Mark Done](screenshots/mark_task_as_done.png) |
+
+### ➕ Lists and Sharing
+
+| Add List | Share Task |
+|----------|------------|
+| ![Add List](screenshots/add_list.png) | ![Share Task](screenshots/share_your_task.png) |
