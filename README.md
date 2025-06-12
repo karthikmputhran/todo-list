@@ -16,7 +16,7 @@
 
 | Add Task | Edit Task | Add Deadline | Mark Done |
 |----------|-----------|---------------|-----------|
-| ![Add Task](screenshots/add_task.png) | ![Edit Task](screenshots/edit_your_task.png) | ![Add Deadline](screenshots/add_deadline_to_task.png) | ![Mark Done](screenshots/mark_task_as_done.png) |
+| ![Add Task](screenshots/add_task.png) | ![Edit Task](screenshots/edit_your_task.png) | ![Add Deadline](screenshots/add_deadine_to_task.png) | ![Mark Done](screenshots/mark_task_as_done.png) |
 
 ### ➕ Lists and Sharing
 
