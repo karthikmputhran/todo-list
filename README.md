@@ -1,6 +1,6 @@
 # 📋 Flutter To-Do List App
 
-A professional and feature-rich Flutter To-Do List app with login/signup, light/dark theme switching, voice input, smart task management, and list sharing as PDF.
+A professional and feature-rich Flutter To-Do List app with login/signup, light/dark theme switching,task management, and list sharing as PDF.
 
 ---
 
