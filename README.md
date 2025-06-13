@@ -9,7 +9,7 @@ A professional and feature-rich Flutter To-Do List app with login/signup, light/
 - 🔐 Secure login with email/phone and strong password validation
 - 🎨 Light and Dark themes with smooth toggle
 - ✅ Create, edit, delete, and mark tasks complete
-- ⏰ Set due dates, reminders, and priorities
+- ⏰ Set due dates
 - 🗃️ Organize with custom task lists
 - 🖼️ Blurred background UI and animated drawer
 - 📤 Export and share task lists as PDF (WhatsApp, Instagram, etc.)
